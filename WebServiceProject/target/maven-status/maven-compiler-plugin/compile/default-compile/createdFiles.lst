@@ -1,0 +1,4 @@
+webservice\rest\Article.class
+webservice\rest\ArticleService.class
+webservice\soap\UserService.class
+webservice\soap\User.class
